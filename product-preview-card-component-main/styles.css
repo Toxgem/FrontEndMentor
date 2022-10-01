@@ -37,14 +37,11 @@ main{
     margin: 20px;
 }
 
-.image-container{
+img{
     height: 20rem;
     width: 100%;
     border-radius: 10px 10px 0 0;
-    background-image: url("./images/image-product-mobile.jpg");
-    background-position:  center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    
 }
 
 .top .preview{
@@ -123,6 +120,8 @@ main{
   .button:hover{
     background-color:  #013220;
   }
+
+  
  footer { 
     color: var(--black);
     margin-top: 10rem;
@@ -156,14 +155,11 @@ a:hover{
      
     }
 
-    .image-container{
+    img{
         height: 35rem;
         width: 100%;
         border-radius: 10px 0 0 10px;
-        background-image: url("./images/image-product-desktop.jpg");
-        background-position:  center;
-        background-repeat: no-repeat;
-        background-size: cover;
+        
     }   
     .top{
         margin-right: 50px;
