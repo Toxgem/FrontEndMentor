@@ -25,13 +25,16 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+For Desktop
+(./Screensho1Desktop.png)
 
+For Mobile
+(./Screnshot2Mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-with-grid-3a7kClZuP3)
+- Live Site URL: (https://front-end-mentor-brown.vercel.app/)
 
 ## My process
 
@@ -63,7 +66,7 @@ The using of extensions for the sake of trying out different screen sizes at the
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ToxGem](https://www.frontendmentor.io/profile/Toxgem)
 
 
 

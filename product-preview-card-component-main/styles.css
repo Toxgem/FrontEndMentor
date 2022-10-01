@@ -106,7 +106,7 @@ main{
   padding-right: 80px;
   width: 300px;
 }
-.button .boton {
+.button .bota {
     display: grid;
     grid-template-columns: repeat(2,1fr);
   }
