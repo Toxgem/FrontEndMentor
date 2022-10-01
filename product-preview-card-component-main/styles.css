@@ -22,7 +22,7 @@ body{
     background-color: var(--cream);
 }
 
-main{
+.full-content{
  
     background-color: var(--white);
     border-radius: 10px;
@@ -141,7 +141,7 @@ a:hover{
 
 @media (min-width: 600px) {
 
-    main{
+   .full-content{
         
         border-radius: 10px ;
         display: grid;
