@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://nft-previewcard-dusky.vercel.app/)
 
 ## My process
 I starte adding some flex to center everything, after that, some width and height to the card itself, some background color to fit the challenge, making a "root" table  for the colors and then the real challenge begun i started to struggle centering the texts, starting to go a trial and error aproach, step by step to center everything, sometimes when i moved something, something else move so it was chaotic in the start, after a some diggin and researching, got some tips here and there in the web to center, using flex in some place, inline methods.
