@@ -31,14 +31,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./ssRat.png)
 
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://front-end-mentor-tw4m.vercel.app/)
 
 ## My process
 - Approached first the general set-up, making the box somewhat responsive, changed the the rating numbers from buttons to radio after several tries 
